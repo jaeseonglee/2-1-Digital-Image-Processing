@@ -1,0 +1,4 @@
+﻿  WinColorView.cpp
+c:\users\samsung\desktop\20165153 영상처리\wincolor\wincolor\wincolorview.cpp(170): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\samsung\desktop\20165153 영상처리\wincolor\wincolor\wincolorview.cpp(242): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  WinColor.vcxproj -> C:\Users\SAMSUNG\Desktop\20165153 영상처리\WinColor\Debug\WinColor.exe

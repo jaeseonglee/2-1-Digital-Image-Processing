@@ -1,0 +1,37 @@
+﻿  stdafx.cpp
+  ChildFrm.cpp
+  MainFrm.cpp
+  WinColor.cpp
+  WinColorDoc.cpp
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(205,85): warning C4244:  '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(207,58): warning C4244:  '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(289,85): warning C4244:  '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(291,58): warning C4244:  '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(592,18): warning C4309:  '초기화 중': 상수 값이 잘립니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(593,19): warning C4309:  '초기화 중': 상수 값이 잘립니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(612,36): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(677,38): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(678,38): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(683,40): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(706,36): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(770,40): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(771,40): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(776,42): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(799,36): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(1050,36): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinColorView.cpp
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorDoc.cpp(1108,36): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(192,12): warning C4101:  'k' :참조되지 않은 지역 변수입니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(264,12): warning C4101:  'k' :참조되지 않은 지역 변수입니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(313,41): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(314,41): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(315,38): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(355,14): warning C4101:  'b' :참조되지 않은 지역 변수입니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(355,11): warning C4101:  'g' :참조되지 않은 지역 변수입니다.
+C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\WinColor\WinColorView.cpp(355,8): warning C4101:  'r' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  307 of 307 functions (100.0%) were compiled.
+    31 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  WinColor.vcxproj -> C:\Users\SAMSUNG\Desktop\GENESIS\1학기\영상처리프로그래밍\20165153 영상처리\WinColor\Release\WinColor.exe
